@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning crop informatics
 - 💞️ I’m looking to collaborate on my projects
 - 📫 How to reach me: mariamrejoice24@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: in ancient times, lightning meant good crop due beakdown of atmospheric nitrogen into nitrites and nitrates
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: In ancient times, Lightning meant good crop due to beakdown of atmospheric Nitrogen into nitrites and nitrates which plants can easily absorb through rainwater.
 
 <!---
 r01-mariam/r01-mariam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
